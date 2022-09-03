@@ -8,9 +8,10 @@ gem 'rails', '~> 5.2.8', '>= 5.2.8.1'
 # Use sqlite3 as the database for Active Record
 gem 'hirb'
 gem 'devise'
-gem 'devise-bootstrap-views'
 gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem 'stripe'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
